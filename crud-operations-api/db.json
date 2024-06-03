@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MSI Pulse",
+      "brand": "MSI",
+      "category": "Computers",
+      "price": 899,
+      "description": "MSI Pulse GL66 15.6 FHD 144Hz Gaming Laptop: Intel Core i7-12700H RTX 3070 16GB 512GB NVMe SSD MSI PulseMSI Pulse",
+      "imageFilename": "22866337.jpg",
+      "createdAt": "2023-07-13T17:46:54.8900000"
+    },
+    {
+      "id": 2,
+      "name": "Acer Swift",
+      "brand": "Acer",
+      "category": "Computers",
+      "price": 929,
+      "description": "Acer Swift X SFX14-42G-R607 Creator Laptop | 14\" Full HD 100% SRGB | AMD Ryzen 7 5825U Acer Swift Acer Swift",
+      "imageFilename": "84600886.jpg",
+      "createdAt": "2023-07-13T17:46:54.8900000"
+    },
+    {
+      "id": 3,
+      "name": "Lenovo Ideapad",
+      "brand": "Lenovo",
+      "category": "Computers",
+      "price": 799,
+      "description": "Lenovo 2022 Newest Ideapad 3 Laptop, 15.6 HD Touchscreen, 11th Gen Intel Core i3-1115G4 Proccesor Lenovo Ideapad",
+      "imageFilename": "10744695.jpg",
+      "createdAt": "2023-07-13T17:46:54.8900000"
+    },
+    {
+      "id": 4,
+      "name": "Moto G Power",
+      "brand": "Motorola",
+      "category": "Phones",
+      "price": 699,
+      "description": "Moto G Power | 2022 Newest Ideapad 3 Laptop, Moto G Power | Unlocked | , 11th Gen Intel Core i3-1115G4 Proccesor Moto G Power",
+      "imageFilename": "69725864.jpg",
+      "createdAt": "2023-07-13T17:46:54.8900000"
+    },
+    {
+      "id": 5,
+      "name": "Nokia G10",
+      "brand": "Nokia",
+      "category": "Phones",
+      "price": "689",
+      "description": "Nokia G10 | 2022 Newest Ideapad 3 Laptop, Nokia G10 | Unlocked | , 11th Gen Intel Core i3-1115G4 Proccesor Nokia G10 ",
+      "imageFilename": "46411326.jpg",
+      "createdAt": "2023-07-13T17:46:54.8900000"
+    },
+    {
+      "id": 6,
+      "name": "OnePlus Nord N20",
+      "brand": "OnePlus",
+      "category": "Phones",
+      "price": 899,
+      "description": "OnePlus Nord N20 G10 | OnePlus Nord N20 2024 Newest Ideapad 3 Laptop, OnePlus Nord N20 | Unlocked | , 11th Gen Intel Core i3-1115G4 Proccesor",
+      "imageFilename": "17327675.jpg",
+      "createdAt": "2023-07-13T17:46:54.8900000"
+    },
+    {
+      "name": "mobile ayman",
+      "brand": "Ayman",
+      "category": "Phones",
+      "price": "3000",
+      "description": "Apple Apple Apple Apple Apple Apple",
+      "imageFilename": "1717450760008_mobile.png",
+      "createdAt": "2024-06-01T17:38:24.738Z",
+      "id": 9
+    },
+    {
+      "name": "Iphone 14",
+      "brand": "Apple",
+      "category": "Phones",
+      "price": "2222",
+      "description": "Apple Iphone 15",
+      "imageFilename": "1717450781193_iphone.png",
+      "createdAt": "2024-06-03T21:39:41.194Z",
+      "id": 10
+    }
+  ]
+}
